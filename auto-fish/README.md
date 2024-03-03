@@ -9,7 +9,7 @@ AutoFishROO is a Python script that automates the fishing process in the game RO
 
 ## Installation
 
-1. Get (target)[/targets] reel image if not using full-screen (1920x1080)
+1. Get [target](/targets) reel image if not using full-screen (1920x1080)
 2. Run `python fish.py`
 
 ## Usage

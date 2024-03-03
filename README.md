@@ -12,6 +12,6 @@ Before running the project, make sure you have the following installed:
 
 ## Scripts
 
-* (Auto-Fish)[./auto-fish] - Automatically cast fishing line and reels. 
-* (Auto-Gather)[./auto-gather] - *Coming soon* 
-* (Auto-Daily)[./auto-daily] - *Coming soon* 
+* [Auto-Fish](./auto-fish) - Automatically cast fishing line and reels. 
+* [Auto-Gather](./auto-gather) - *Coming soon* 
+* [Auto-Daily](./auto-daily) - *Coming soon* 
