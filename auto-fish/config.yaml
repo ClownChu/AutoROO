@@ -1,0 +1,26 @@
+---  
+  time_intervals:
+    # How long until bot start clicking after startup
+    # Default value (in seconds): 5
+    startup_delay: 5
+    # Max time to wait for a fish to bite before restart reeling
+    # Default value (in seconds): 10
+    max_time_to_wait_for_bite: 10
+    # Time interval between moviments
+    # Default value (in seconds): 1
+    interval_between_moves_and_clicks: 0
+    # Time interval between moviments
+    # Default value (in seconds): 1
+    interval_between_fishing: 1
+  # Default value: 60
+  scroll_size: 60
+  # Default value: true
+  use_click_and_drag_instead_of_scroll: true
+  # Default value: 200
+  click_and_drag_amount: 200
+  # Default value: False
+  save_log_to_file: True
+  # Image matching confidence threshold (0 to 1)
+  threshold:
+    # Default value: 0.7
+    default: 0.7
